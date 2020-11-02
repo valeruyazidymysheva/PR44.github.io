@@ -77,10 +77,10 @@
 
 					font = response;
 
-					var text = "Приемы прогрммирования и разработка приложений Курсовая работа Акудинина Т.В. М31с";
+					var text = "Приемы прогрммирования и разработка приложений";
 					var text_geometry = new THREE.TextGeometry( text, 
 							{
-								size: 24,
+								size: 10,
 								height: 5,
 								curveSegments: 4,
 								font: font,
